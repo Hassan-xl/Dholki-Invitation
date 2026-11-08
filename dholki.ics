@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dholki Invitation//Abdul Wassay and Warisha//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dholki-abdulwassay-warisha-20261209@invitation
+DTSTAMP:20261108T000000Z
+DTSTART:20261209T140000Z
+DTEND:20261209T170000Z
+SUMMARY:Dholki of Abdul Wassay & Warisha
+LOCATION:Building 103\, A/2\, Sector F\, Askari 5\, Malir Cantt\, Karachi
+DESCRIPTION:Hosted by Muhammad Sulieman & Mansha Sulieman. Come ready to sing and dance!
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Dholki tonight at 7:00 pm
+END:VALARM
+END:VEVENT
+END:VCALENDAR
